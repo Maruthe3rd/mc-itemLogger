@@ -1,2 +1,2 @@
-# mc-itemLogger
-Ein Minecraft-Plugin, mit dem Items ihre Aktivitäten aufzeichnen und speichern können, sodass Ereignisse später nachverfolgt werden können.
+# (Half) Text RPG
+Ein half Text based RPG mit Kampfsequenzen im Stil von Undertale und einem auf Entscheidungen basierenden Escape-Room-/Logikbaum-System. 
